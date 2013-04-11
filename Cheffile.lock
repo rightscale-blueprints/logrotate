@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/opscode-cookbooks/logrotate
+  ref: master
+  sha: 336fab69ae49e16537d38b39fefc36e6e453a2af
+  specs:
+    logrotate (1.2.0)
+
+DEPENDENCIES
+  logrotate (>= 0)
+
